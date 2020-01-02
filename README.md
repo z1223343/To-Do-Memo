@@ -5,3 +5,11 @@ tutorial
 
 
 2020/1/1: From today I will try to keep active in commit graph.
+
+
+
+
+
+To do:
+
+* clean repos 
