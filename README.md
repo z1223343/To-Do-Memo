@@ -1,16 +1,7 @@
-# hello-world
-tutorial
-## oh yeah
-### one more time
+# To Do Memo
 
+## -- Unfinished Project & Future Ideas
 
-2020/1/1: From today I will try to keep active in commit graph.
-
-
-
-
-
-To do:
-
-* clean repos 
-* weibo update
+1. Self-driving car project 5 (highway vehicle detection) : 3D bounding box detection
+2. Deep Reinforcement Learning project 3 (Multi-agent training) : MADDPG
+3. TBD
